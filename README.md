@@ -1,1 +1,2 @@
-# infiniterunner
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
